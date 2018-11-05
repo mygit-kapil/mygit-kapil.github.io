@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-leap-day
+layout: jekyll-theme-architect
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
